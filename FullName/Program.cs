@@ -2,11 +2,19 @@
 
 namespace FullName
 {
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            // TODO: Ask the user for their first name and then their last name.
+
+            // TODO: Call a method called FullName that returns their full name.
+
+            // TODO: Output their full name.
+
+            Console.ReadLine();
         }
+
+        // TODO: Create a method call FullName that takes the firstName and lastName as parameters.
     }
 }
